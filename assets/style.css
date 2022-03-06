@@ -1,0 +1,75 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: #0F141F;
+    font-family: 'Manrope', sans-serif;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.card{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    width: 30rem;
+    min-height: 22rem;
+    border-radius: 1rem;
+    background-color: rgba(89, 90, 92, .3);
+    margin-bottom: 5rem;
+    padding: 1rem;
+}
+.numeroAdvice{
+    color: hsl(150, 100%, 66%);
+    font-size: 15px;
+    letter-spacing: 0.3rem;
+}
+.nota{
+    padding: 1rem;
+    flex-grow: 1;
+    font-size: 28px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: hsl(193, 38%, 86%);
+}
+.citacao{
+    padding-bottom: 2rem;
+}
+.botao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5rem;
+    width: 60px;
+    height: 60px;
+    background-color: rgba(71, 212, 141, 0.733);
+    position: absolute;
+    bottom: -2rem;
+    transition: 0.5s all;
+}
+.botao img{
+    width: 25px;
+}
+.botao:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 1.5rem hsl(150, 100%, 66%);
+    background-color: hsl(150, 100%, 66%);
+    transition: 0.5s all;
+}
+@media (max-width: 500px){
+    .card{
+        width: 80vw;
+    }
+    .citacao img{
+        width: 80vw;
+    }
+}

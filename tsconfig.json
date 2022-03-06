@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        // Saída -> Onde vai ser traduzido
+        "outDir": "assets/js",
+        "target": "ES6"
+    },
+    "include": [
+        "ts/**/*"
+    ]
+}
