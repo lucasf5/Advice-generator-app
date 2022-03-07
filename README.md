@@ -3,7 +3,7 @@
 ![Design preview for the Advice generator app coding challenge](./assets/design/desktop-preview.jpg)
 
 ## Welcome! 👋
-
+![](https://i.imgur.com/waxVImv.png)
 - [Advice generator app](#advice-generator-app)
   - [Welcome! 👋](#welcome-)
   - [My process](#my-process)
@@ -17,9 +17,8 @@
     - [Body Copy](#body-copy)
     - [Font](#font)
   - [Author](#author)
-
 ## My process
-
+![](https://i.imgur.com/waxVImv.png)
 ### Built with
 
 - Semantic HTML5 markup
@@ -29,7 +28,7 @@
 - JavaScript
 
 # Front-end Style Guide
-
+![](https://i.imgur.com/waxVImv.png)
 ## Layout
 
 The designs were created to the following widths:
@@ -63,6 +62,6 @@ The designs were created to the following widths:
 
 
 ## Author
-
+![](https://i.imgur.com/waxVImv.png)
 - Website - [Lucas Ferreira](https://lucasf5.github.io/Portifolio/)
 - Frontend Mentor - [@lucasf5](https://www.frontendmentor.io/profile/lucasf5)
